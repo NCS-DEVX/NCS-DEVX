@@ -22,3 +22,6 @@
 - 📊 **Indicadores e Scripts em Pine Script** para análise de mercados e sinais de negociação.
 - 💻 **Desenvolvimento de APIs e Integrações** com Microsoft SQL Server e RESTful APIs.
 
+<img src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/output/snake.svg" alt="Snake animation" />
+
+###
