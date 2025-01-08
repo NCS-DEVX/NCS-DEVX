@@ -5,14 +5,14 @@
 - 💻 **Programador Analista de Sistemas** com foco em **Desenvolvimento Backend** e **Machine Learning**
 - 🚀 **Desenvolvedor** interessado em construir soluções eficientes e escaláveis
 - 📍 **São Paulo, SP**
-- 📧 Me envie um e-mail: [nathan.email@example.com](mailto:nathan.email@example.com)
+- 📧 Me envie um e-mail: [ncsw13@gmail.com](ncsw13@gmail.com)
 
 ---
 
 ## 🔧 Tecnologias que uso
 
-- **Linguagens de Programação:** Java, JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas:** Spring Boot, React, Node.js, .NET
+- **Linguagens de Programação:** C#, Java, JavaScript, TypeScript, Python
+- **Frameworks e Bibliotecas:** Spring Boot, React, Node.js, .NET, ASP.NET
 - **Ferramentas e Tecnologias:** Git, Docker, AWS, Azure, SQL Server, PostgreSQL
 
 ---
@@ -28,21 +28,6 @@
 - 💼 **Projetos em Java e Spring Boot** focados em transações financeiras e sistemas de monitoramento.
 - 📊 **Indicadores e Scripts em Pine Script** para análise de mercados e sinais de negociação.
 - 💻 **Desenvolvimento de APIs e Integrações** com Microsoft SQL Server e RESTful APIs.
-
----
-
-## 📌 Links
-
-- **LinkedIn:** [Nathan LinkedIn](https://www.linkedin.com/in/nathan/)
-- **GitHub:** [Meu GitHub](https://github.com/nathan)
-- **Twitter:** [@nathan_twitter](https://twitter.com/nathan_twitter)
-- **Discord:** [Nathan#1234](https://discord.com/users/nathan#1234)
-
----
-
-## 🎧 Ouvindo agora
-
-[![Spotify](https://spotify-link-to-your-current-song-image.com)](https://open.spotify.com/user/spotifyuser)
 
 ---
 
