@@ -32,17 +32,17 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan&langs_count=10&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?NCS-DEVX&langs_count=10&layout=compact)
 
 ---
 
 ## 📅 Atividades no GitHub
 
-![Atividades GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=nathan&theme=github)
+![Atividades GitHub](https://github-readme-activity-graph.cyclic.app/graph?NCS-DEVX&theme=github)
 
 ---
 
 ## 🐍 Snake Game
 
-![Snake](https://github.com/nathan/nathan/blob/main/github-snake.svg)
+![Snake](https://github.com/NCS-DEVX/NCS-DEVX/blob/main/github-snake.svg)
 
