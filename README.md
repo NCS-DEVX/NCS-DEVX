@@ -5,7 +5,8 @@
 - 💻 **Programador Analista de Sistemas** com foco em **Desenvolvimento Backend** e **Machine Learning**
 - 🚀 **Desenvolvedor** interessado em construir soluções eficientes e escaláveis
 - 📍 **São Paulo, SP**
-- 📧 Me envie um e-mail: [ncsw13@gmail.com](ncsw13@gmail.com)
+- 📧 Me envie um e-mail: [ncsw13@gmail.com](mailto:ncsw13@gmail.com)
+- 🔗 **Meu GitHub:** [NCS-DEVX](https://github.com/NCS-DEVX)
 
 ---
 
@@ -46,3 +47,4 @@
 ## 🐍 Snake Game
 
 ![Snake](https://github.com/nathan/nathan/blob/main/github-snake.svg)
+
