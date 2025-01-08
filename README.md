@@ -16,33 +16,9 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathan&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
 ## 🚀 Contribuições e Projetos
 
 - 💼 **Projetos em Java e Spring Boot** focados em transações financeiras e sistemas de monitoramento.
 - 📊 **Indicadores e Scripts em Pine Script** para análise de mercados e sinais de negociação.
 - 💻 **Desenvolvimento de APIs e Integrações** com Microsoft SQL Server e RESTful APIs.
-
----
-
-## 📊 Linguagens mais usadas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?NCS-DEVX&langs_count=10&layout=compact)
-
----
-
-## 📅 Atividades no GitHub
-
-![Atividades GitHub](https://github-readme-activity-graph.cyclic.app/graph?NCS-DEVX&theme=github)
-
----
-
-## 🐍 Snake Game
-
-![Snake](https://github.com/NCS-DEVX/NCS-DEVX/blob/main/github-snake.svg)
 
