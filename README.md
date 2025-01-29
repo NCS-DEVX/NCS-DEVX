@@ -18,24 +18,9 @@
 
 ## 🚀 Contribuições e Projetos
 
-- 💼 **Projetos em Java e Spring Boot** focados em transações financeiras e sistemas de monitoramento.
+- 💼 **Projetos em .NET, Java, python, SQL e Spring Boot** focados em transações financeiras e sistemas de monitoramento.
 - 📊 **Indicadores e Scripts em Pine Script** para análise de mercados e sinais de negociação.
 - 💻 **Desenvolvimento de APIs e Integrações** com Microsoft SQL Server e RESTful APIs.
-
-
-<h1 align="left">Ola, Eu sou o Nathan 👋</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
