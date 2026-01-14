@@ -67,7 +67,7 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 |------|------------|------|
 | **ControleGastos** | API REST para controle financeiro com organização em camadas | .NET · EF Core · SQL |
 | **HealthTrack** | Sistema de gestão de saúde com CRUD e autenticação | ASP.NET MVC |
-| **FinCore** | Backend modular focado em domínio e regras de negócio | Clean Architecture |
+
 
 ---
 
