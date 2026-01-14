@@ -1,18 +1,9 @@
-<!-- BANNER ANIMADO (SVG) -->
+<!-- BANNER ANIMADO (SVG MATRIX) -->
 <p align="center">
-  <img 
+  <img
     src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/main/matrix.svg"
-    alt="Animated code banner"
     width="100%"
-  />
-</p>
-
-<!-- FALLBACK GIF (caso SVG não carregue em cache antigo) -->
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Code animation"
-    width="100%"
+    alt="Animated code background"
   />
 </p>
 
