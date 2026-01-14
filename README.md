@@ -46,21 +46,20 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NCS-DEVX&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NCS-DEVX&theme=midnight_purple"
+    alt="GitHub Stats"
+    width="30%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NCS-DEVX&theme=midnight_purple"
+    alt="GitHub Profile Details"
+    width="65%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCS-DEVX&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top languages"
-  />
-</p>
-
 
 ---
 
