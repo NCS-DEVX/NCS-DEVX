@@ -3,7 +3,7 @@
   <img
     src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/main/matrix.svg"
     width="100%"
-    alt="Animated matrix code"
+    alt="Animated code background"
   />
 </p>
 
@@ -29,18 +29,18 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-00ff66?style=for-the-badge&logo=csharp&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-00ff66?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-00ff66?style=for-the-badge&logo=dotnet&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-00ff66?style=for-the-badge)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-00ff66?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge)
 
 ### 🧩 Tools & Practices
-![Git](https://img.shields.io/badge/Git-00ff66?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00ff66?style=for-the-badge&logo=github&logoColor=black)
-![REST](https://img.shields.io/badge/REST_API-00ff66?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ---
 
@@ -48,17 +48,16 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NCS-DEVX&theme=matrix"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NCS-DEVX&theme=midnight_purple"
     alt="GitHub Stats"
     width="30%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NCS-DEVX&theme=matrix"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NCS-DEVX&theme=midnight_purple"
     alt="GitHub Profile Details"
     width="65%"
   />
 </p>
-
 
 ---
 
@@ -76,10 +75,10 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-00ff66?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -88,4 +87,5 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 <p align="center">
   <i>Consistency beats intensity.</i>
 </p>
+
 
