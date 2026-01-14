@@ -1,67 +1,80 @@
-<h1 align="center">🚀 Nathan Correia Silva</h1>
-<h3 align="center">Back-End Developer | .NET | SQL Server</h3>
+<!-- BANNER ANIMADO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/main/matrix.svg" width="100%" />
+</p>
+
+<h1 align="center">Nathan Correia Silva</h1>
+<h3 align="center">Back-End Developer | C# .NET | APIs REST | SQL Server</h3>
 
 <p align="center">
-  <i>Profile in Development | Code with Purpose</i>
+  <i>Building structured back-end solutions with focus on clarity, consistency and evolution.</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Sou desenvolvedor Back-End com foco em **C# / .NET**, APIs REST e SQL Server.  
-Tenho experiência em projetos pessoais estruturados com **Clean Architecture**, boas práticas e visão de produto.
+Sou desenvolvedor **Back-End**, com foco em **C# / .NET**, desenvolvimento de **APIs REST** e integração com **SQL Server**.
 
-Atualmente em evolução constante, buscando oportunidades para crescer como **Backend Engineer**.
+Tenho experiência com projetos pessoais estruturados seguindo boas práticas como **separação de responsabilidades**, **organização em camadas** e fundamentos de **Clean Architecture**, sempre buscando escrever código legível, sustentável e alinhado a cenários reais de mercado.
+
+Atualmente em evolução constante, com foco em consolidar minha base técnica como **Back-End Developer Júnior forte**, pronto para ambientes profissionais.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-6DB33F?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge)
 
-### DevOps & Versioning
+### 🧩 Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NCS-DEVX&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCS-DEVX&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Projeto | Descrição | Tech |
-|-------|----------|------|
-| ControleGastos | API REST para controle financeiro | .NET · EF Core |
-| HealthTrack | Sistema de gestão de saúde | ASP.NET MVC |
-| FinCore | Backend financeiro modular | Clean Architecture |
+| Project | Description | Stack |
+|-------|------------|-------|
+| **ControleGastos** | API REST para controle financeiro com organização em camadas | .NET · EF Core · SQL |
+| **HealthTrack** | Sistema de gestão de saúde com CRUD e autenticação | ASP.NET MVC |
+| **FinCore** | Backend modular focado em domínio e regras de negócio | Clean Architecture |
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail)](mailto:seuemail@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Made with focus and consistency.</i>
+  <i>Consistency beats intensity.</i>
 </p>
