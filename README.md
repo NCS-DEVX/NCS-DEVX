@@ -1,6 +1,19 @@
-<!-- BANNER ANIMADO -->
+<!-- BANNER ANIMADO (SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/main/matrix.svg" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/NCS-DEVX/NCS-DEVX/main/matrix.svg"
+    alt="Animated code banner"
+    width="100%"
+  />
+</p>
+
+<!-- FALLBACK GIF (caso SVG não carregue em cache antigo) -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Code animation"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Nathan Correia Silva</h1>
@@ -26,7 +39,7 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -40,7 +53,7 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NCS-DEVX&show_icons=true&theme=tokyonight" />
@@ -55,7 +68,7 @@ Atualmente em evolução constante, com foco em consolidar minha base técnica c
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|-------|------------|-------|
+|------|------------|------|
 | **ControleGastos** | API REST para controle financeiro com organização em camadas | .NET · EF Core · SQL |
 | **HealthTrack** | Sistema de gestão de saúde com CRUD e autenticação | ASP.NET MVC |
 | **FinCore** | Backend modular focado em domínio e regras de negócio | Clean Architecture |
